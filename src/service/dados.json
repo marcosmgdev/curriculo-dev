@@ -1,0 +1,35 @@
+{
+  "profile": {
+    "img": "https://via.placeholder.com/200x200",
+    "nome": "Marcos",
+    "sobrenome": "Siqueira Alves ",
+    "cidade": "Araporã",
+    "estado": "MG",
+    "contato": "(64)992377547",
+    "email": "marcosmgdev@gmail.com",
+    "biografia": "Olá me chamo Marcos sou iniciante da area de programação.",
+    "experiencia": [
+      {
+        "id": 1,
+        "cargo": "Supervisor Administativo",
+        "empresa": "Fertis Fertilizantes",
+        "periodo": "Agosto 2022 - Atual",
+        "atividades": "atividade de trabalho"
+      },
+      {
+        "id": 2,
+        "cargo": "Supervisor Administativo",
+        "empresa": "FR Nutran",
+        "periodo": "Maio 2020 - Março 2022",
+        "atividades": "atividade de trabalho"
+      },
+      {
+        "id": 3,
+        "cargo": "Lider de Faturamento",
+        "empresa": "Corteva Agrocience",
+        "periodo": "Agosto 2022 - Atual",
+        "atividades": "atividade de trabalho"
+      }
+    ]
+  }
+}
